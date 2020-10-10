@@ -1,6 +1,6 @@
 <b>IbmMaratonaDesafios</b>
 
-Aqui subi mi resolucion para los diferentes desafios del challenge que requerian la creacion de un modelo machine learning en <b>python</b>, los otros desafios estaban relacionados con herramientas especificas de la plataforma de ibm como watson discovery, y por eso no los tengo compartidos aqui.
+Aqui subi mi solucion para los diferentes desafios del challenge que requerian la creacion de un modelo machine learning en <b>python</b>, los otros desafios estaban relacionados con herramientas especificas de la plataforma de ibm como watson discovery, y por eso no los tengo compartidos aqui.
 
 
 
