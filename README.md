@@ -1,6 +1,11 @@
+# Behind the code 2020 - IBM
+
+La Maratón Behind the Code es un concurso en el que se busca capacitar y reunir a los desarrolladores y amantes del mercado tecnológico de toda america latina de forma gratuita, accediento a tecnologías  disruptivas como la Inteligencia Artificial, Cloud, Contenedores e IoT disponibles en la nube de IBM. En 2020 participe del concurso logrando ser uno de los finalistas del mismo.
+
+
 <b>IbmMaratonaDesafios</b>
 
-Aqui subi mi solucion para los diferentes desafios del challenge que requerian la creacion de un modelo machine learning en <b>python</b>, los otros desafios estaban relacionados con herramientas especificas de la plataforma de ibm como watson discovery, y por eso no los tengo compartidos aqui.
+En este repositorio puedes encontrar mi solucion para los diferentes desafios del challenge que requerian la creacion de un modelo machine learning en <b>python</b>, los otros desafios estaban relacionados con herramientas especificas de la plataforma de ibm como watson discovery, y por eso no los tengo compartidos aqui.
 
 
 
